@@ -12,14 +12,17 @@
 
 ## 📸 Screenshots & Visual Overview
 
-### 1. Studio Gallery & Real-Time Multi-Template Preview (`/app`)
-![Studio Gallery](docs/images/studio-gallery.png)
+### 1. Landing Page (`/`) — Hero Banner & Interactive Previews
+![Landing Page](docs/images/landing-page.png)
 
-### 2. Canvas Aspect Ratio Selector (9:16, 1:1, 16:9, 4:3, 21:9)
-![Aspect Ratio Selector](docs/images/aspect-ratio-selector.png)
+### 2. Studio Gallery (`/app`) — 9:16 Portrait Canvas Ratio
+![Studio Gallery Portrait](docs/images/studio-portrait-9-16.png)
 
-### 3. Free Self-Hosted AI Voiceover Generator & Player (`/app/editor`)
-![Voiceover Generator](docs/images/voiceover-generator.png)
+### 3. Studio Gallery (`/app`) — 16:9 Widescreen Canvas Ratio
+![Studio Gallery Widescreen](docs/images/studio-widescreen-16-9.png)
+
+### 4. Template Editor (`/app/editor/{id}`) — 3-Panel Studio & Free AI Voiceover
+![Template Editor](docs/images/template-editor.png)
 
 ---
 
